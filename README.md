@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Начинающий специалист в сфере Data Science.
--
-
+## Начинающий специалист в сфере Data Science.
 - 🌱 В настоящее время обучаюсь в магистратуре
 - 🔭 Активно ищу работу
 - 📫 [Telegramm](https://t.me/Prili4nbli_79nin)
 
-Стэк:
-Python, SQL, pandas, numpy, matplotlib, seaborn, sklearn, scipy
+## Стэк:
+Python, SQL, pandas, numpy, matplotlib, seaborn, sklearn, scipy, lightgbm, catboost
   

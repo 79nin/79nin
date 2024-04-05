@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🌱 В настоящее время обучаюсь в магистратуре
 - 🔭 Активно ищу работу
 - 📫 [Telegramm](https://t.me/Prili4nbli_79nin)
+
+[Python](https://github.com/79nin/79nin/blob/main/python-logo%402x.png)
+  

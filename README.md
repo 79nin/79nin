@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 🌱 Выпускник курса Data Science от Яндекс Практикума, некоторые проекты можно посмотреть в моём [portfolio](https://github.com/79nin/Data_Science_YP)
 - ⚡ Обучаюсь в магистратуре
 - 🔭 **Активно ищу работу**
-- [📫](https://t.me/Prili4nbli_79nin)
+
+### Мои контакты
+💬[Telegram](https://t.me/Prili4nbli_79nin)
 
 ## Стэк:
 Python, SQL, pandas, numpy, matplotlib, seaborn, sklearn, scipy, lightgbm, catboost

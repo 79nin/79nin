@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет, я Игорь 👋
 
 <!--
 **79nin/79nin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Начинающий специалист в сфере Data Science.
+-
+
+- 🌱 В настоящее время обучаюсь в магистратуре
+- 🔭 Активно ищу работу
+- 📫 [Telegramm](https://t.me/Prili4nbli_79nin)

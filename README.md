@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Начинающий специалист в сфере Data Science.
 - 🌱 В настоящее время обучаюсь в магистратуре
-- 🔭 Активно ищу работу
+- 🔭 **Активно ищу работу**
 - 📫 [Telegramm](https://t.me/Prili4nbli_79nin)
 
 ## Стэк:
